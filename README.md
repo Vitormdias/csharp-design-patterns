@@ -1,2 +1,2 @@
 # csharp-design-patterns
-OO with C#, design patterns in C# and other topics
+OO with C#, design patterns in C# and related topics
