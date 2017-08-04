@@ -9,3 +9,4 @@ OO with C#, design patterns in C# and related topics
 ## Patterns
 
 * Strategy
+* Blockchain
