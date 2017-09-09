@@ -10,3 +10,4 @@ OO with C#, design patterns in C# and related topics
 
 * Strategy
 * Chain of Responsibility
+* Template Method
