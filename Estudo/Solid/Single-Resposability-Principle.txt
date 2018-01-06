@@ -1,0 +1,22 @@
+Coesão e Single Resposability Principle
+
+- O que é?
+- Classe que contem uma unica responsabilidade dentro
+  do sistema
+- Criar classes coesas, que vc não precisa mexer constantemente
+
+
+- Como identificar?
+- Classes que sempre estão crescendo
+- Que tem varios metodos
+- Código complexo gera dificuldades de dar suporte
+
+- O que fazer?
+- Dividir em classes menores
+- Isolar regras de negócio em classes
+- A classe fica com uma unica resposabilidade
+- Usar interfaces para regras similares
+- Interface em C# ISuaInterface
+- Somente abstrair a regra não serve,
+  pq teria que mudar a classe base com regras novas
+- Injetar interface da regra na classe
